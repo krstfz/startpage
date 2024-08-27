@@ -1,9 +1,9 @@
 :root {
-    --color-bg: #282828;
-    --color-fg: #fbf1c7;
-    --color-link: #fbf1c7;
-    --color-link-visited: #fbf1c7;
-    --color-link-hover: #8ec07c ;
+    --color-bg: #232A2E;
+    --color-fg: #D3C6AA;
+    --color-link: #D3C6AA;
+    --color-link-visited: #D3C6AA;
+    --color-link-hover: #83C092 ;
 }
 
 @font-face {
